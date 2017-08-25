@@ -1,5 +1,5 @@
 baseurl = "https://quant-ile.github.io"
-title = "Ещё один сайт о статистике"
+title = "Quant-ile"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
@@ -40,7 +40,15 @@ googleAnalytics = "UA-104888902-1"
   url = "about/"
 
   [[params.navlinks]]
-  name = "Get in touch"
+  name = "Блог"
+  url = "blog/"
+
+  [[params.navlinks]]
+  name = "Проекты"
+  url = "projects/"
+
+  [[params.navlinks]]
+  name = "Контакты"
   url = "contact/"
 
 
