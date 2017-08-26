@@ -1,41 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Ещё один сайт о статистике</title>
-    <link>https://quant-ile.github.io/tags/</link>
-    <description>Recent content in Tags on Ещё один сайт о статистике</description>
+    <title>Tags on Quant-ile</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Quant-ile</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy;2016 Your name or company</copyright>
+    <copyright>&amp;copy;2017 Quant-ile </copyright>
     <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
     
-	<atom:link href="https://quant-ile.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Plot</title>
-      <link>https://quant-ile.github.io/tags/plot/</link>
+      <link>/tags/plot/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://quant-ile.github.io/tags/plot/</guid>
+      <guid>/tags/plot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R Markdown</title>
-      <link>https://quant-ile.github.io/tags/r-markdown/</link>
+      <link>/tags/r-markdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://quant-ile.github.io/tags/r-markdown/</guid>
+      <guid>/tags/r-markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Regression</title>
-      <link>https://quant-ile.github.io/tags/regression/</link>
+      <link>/tags/regression/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://quant-ile.github.io/tags/regression/</guid>
+      <guid>/tags/regression/</guid>
       <description></description>
     </item>
     
