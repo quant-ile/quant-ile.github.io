@@ -1,4 +1,4 @@
-baseurl = "https://quant-ile.github.io"
+baseurl = "https://quant-ile.github.io/"
 title = "Quant-ile"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
@@ -37,19 +37,19 @@ googleAnalytics = "UA-104888902-1"
 
   [[params.navlinks]]
   name = "О сайте"
-  url = "/about/"
+  url = "about/"
 
   [[params.navlinks]]
   name = "Блог"
-  url = "/blog/"
+  url = "blog/"
 
   [[params.navlinks]]
   name = "Проекты"
-  url = "/projects/"
+  url = "projects/"
 
   [[params.navlinks]]
   name = "Контакты"
-  url = "/contact/"
+  url = "contact/"
 
 
   [params.social]
