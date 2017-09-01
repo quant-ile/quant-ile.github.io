@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Quant-ile</title>
+    <link>/blog/</link>
+    <description>Recent content in Blogs on Quant-ile</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;2017 Quant-ile </copyright>
+    <lastBuildDate>Fri, 01 Sep 2017 22:39:19 +0300</lastBuildDate>
+    
+	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Animoplex_animations</title>
+      <link>/blog/animoplex_animations/</link>
+      <pubDate>Fri, 01 Sep 2017 22:39:19 +0300</pubDate>
+      
+      <guid>/blog/animoplex_animations/</guid>
+      <description> y &amp;lt;- 3 + 5 </description>
+    </item>
+    
+  </channel>
+</rss>
