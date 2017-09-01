@@ -32,27 +32,27 @@ googleAnalytics = "UA-104888902-1"
 
   # Nav links in the side bar
   [[params.navlinks]]
-  name = "Home"
+  name = "Главная"
   url = ""
 
   [[params.navlinks]]
   name = "О сайте"
-  url = "about/"
+  url = "/about/"
 
   [[params.navlinks]]
   name = "Блог"
-  url = "blog/"
+  url = "/blog/"
 
   [[params.navlinks]]
   name = "Проекты"
-  url = "projects/"
+  url = "/projects/"
 
   [[params.navlinks]]
   name = "Контакты"
-  url = "contact/"
+  url = "/contact/"
 
 
   [params.social]
   email         = "quantile@protonmail.com"
   twitter       = "full profile url in twitter"
-  github        = "full profile url in github"
+  github        = "https://github.com/quant-ile/"
